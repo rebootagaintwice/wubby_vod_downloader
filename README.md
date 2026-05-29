@@ -1,4 +1,4 @@
-# PaymoneyWubby VOD Archive Downloader
+# PayMoneyWubby VOD Archive Downloader
 
 A simple PowerShell script that bulk-downloads the [PaymoneyWubby VOD archive](https://archive.wubby.tv/) and organizes every video into a clean, dated folder structure on your own drive.
 
