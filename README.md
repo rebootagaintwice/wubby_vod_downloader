@@ -84,4 +84,4 @@ Because each link is generated right before it's used, expiring URLs are never a
 
 ## Disclaimer
 
-This is a community convenience tool for downloading content that the archive already makes publicly available. Please be respectful of the host's bandwidth, and only download what you actually intend to keep. This project is not affiliated with or endorsed by PaymoneyWubby or the archive's operators.
+This is a community convenience tool for downloading content that the archive already makes publicly available. Please be respectful of the host's bandwidth, and only download what you actually intend to keep. This project is not affiliated with or endorsed by Dennis Richardson, PayMoneyWubby or the archive's operators.
